@@ -2,7 +2,7 @@
 
 # Setup
 
-Une fois les fichiers clonés, se mettre dans le dossier depuis un terminal et :
+Une fois les fichiers clonés, se mettre dans le dossier du projet depuis un terminal et :
 
 ```
 npm install
@@ -23,3 +23,7 @@ npm start
 **.stylelintrc.json** : un fichier de config pour les bonnes pratiques CSS.
 
 **package-lock.json et package.json** : des infos sur les modules utilisés pour créer ce projet.
+
+<hr>
+
+Tu peux copier ce projet pour chacun de tes nouveaux exercices et/ou projets.
